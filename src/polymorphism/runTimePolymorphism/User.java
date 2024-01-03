@@ -1,4 +1,4 @@
-package src.polymorphism;
+package src.polymorphism.runTimePolymorphism;
 
 public class User {
     public void updatePassword(){

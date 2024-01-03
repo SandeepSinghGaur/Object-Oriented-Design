@@ -1,7 +1,7 @@
 package src.overriding;
 
 public class A {
-    protected void doSomething() {
+    public void doSomething() {
         System.out.println("Class A Method Called");
     }
 }

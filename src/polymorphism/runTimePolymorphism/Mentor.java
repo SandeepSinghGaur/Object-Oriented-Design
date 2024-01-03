@@ -1,4 +1,4 @@
-package src.polymorphism;
+package src.polymorphism.runTimePolymorphism;
 
 public class Mentor extends User {
     public void updatePassword(){
